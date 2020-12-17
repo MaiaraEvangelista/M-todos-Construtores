@@ -1,0 +1,13 @@
+/home/maiara/Área de Trabalho/Backend C#/Métodos Construtores15/bin/Debug/netcoreapp3.1/Métodos Construtores15
+/home/maiara/Área de Trabalho/Backend C#/Métodos Construtores15/bin/Debug/netcoreapp3.1/Métodos Construtores15.deps.json
+/home/maiara/Área de Trabalho/Backend C#/Métodos Construtores15/bin/Debug/netcoreapp3.1/Métodos Construtores15.runtimeconfig.json
+/home/maiara/Área de Trabalho/Backend C#/Métodos Construtores15/bin/Debug/netcoreapp3.1/Métodos Construtores15.runtimeconfig.dev.json
+/home/maiara/Área de Trabalho/Backend C#/Métodos Construtores15/bin/Debug/netcoreapp3.1/Métodos Construtores15.dll
+/home/maiara/Área de Trabalho/Backend C#/Métodos Construtores15/bin/Debug/netcoreapp3.1/Métodos Construtores15.pdb
+/home/maiara/Área de Trabalho/Backend C#/Métodos Construtores15/obj/Debug/netcoreapp3.1/Métodos Construtores15.csprojAssemblyReference.cache
+/home/maiara/Área de Trabalho/Backend C#/Métodos Construtores15/obj/Debug/netcoreapp3.1/Métodos Construtores15.AssemblyInfoInputs.cache
+/home/maiara/Área de Trabalho/Backend C#/Métodos Construtores15/obj/Debug/netcoreapp3.1/Métodos Construtores15.AssemblyInfo.cs
+/home/maiara/Área de Trabalho/Backend C#/Métodos Construtores15/obj/Debug/netcoreapp3.1/Métodos Construtores15.csproj.CoreCompileInputs.cache
+/home/maiara/Área de Trabalho/Backend C#/Métodos Construtores15/obj/Debug/netcoreapp3.1/Métodos Construtores15.dll
+/home/maiara/Área de Trabalho/Backend C#/Métodos Construtores15/obj/Debug/netcoreapp3.1/Métodos Construtores15.pdb
+/home/maiara/Área de Trabalho/Backend C#/Métodos Construtores15/obj/Debug/netcoreapp3.1/Métodos Construtores15.genruntimeconfig.cache
